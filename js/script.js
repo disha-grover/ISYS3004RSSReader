@@ -21,7 +21,7 @@ function addRSStoDOM(data) {
   content.appendChild(itemsContainer);
 }
 
-var content = document.getElementsByTageName('main')[0]
+var content = document.getElementsByTagName('main')[0]
 
 var xhr = new XMLHttpRequest();
 
